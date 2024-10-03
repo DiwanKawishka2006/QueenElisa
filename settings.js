@@ -18,7 +18,7 @@ module.exports = {
 ☫ Work Type : @worktype
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
-  ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
+  ALIVE_MEDIA: 'https://imgur.com/a/Co9ykaq',
   MONGODB_URL: '', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
