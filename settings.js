@@ -33,7 +33,7 @@ module.exports = {
   CAPTION: '𝐃𝚰𝐖𝚫𝚫 𝚯𝐅𝐅𝚰𝐂𝚰𝚫𝐋 𝚮𝚵𝐋𝚸 𝐃𝚵𝐒𝐊',
   STICKER_AUTHOR: '𝐃𝚰𝐖𝚫𝚫 𝚯𝐅𝐅𝚰𝐂𝚰𝚫𝐋',
   STICKER_PACK: '𝚮𝚵𝐋𝚸 𝐃𝚵𝐒𝐊',
-  REMOVE_BG_APIKEY: '',
+  REMOVE_BG_APIKEY: '2cK9syxqaPiiFLuQpue9Ari4',
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '👽',
   ALIVE_AS_GIF: true,
