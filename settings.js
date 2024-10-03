@@ -19,7 +19,7 @@ module.exports = {
 
 𝐃𝚰𝐖𝚫𝚫 𝚯𝐅𝐅𝚰𝐂𝚰𝚫𝐋 𝚮𝚵𝐋𝚸 𝐃𝚵𝐒𝐊`,
   ALIVE_MEDIA: 'https://imgur.com/a/Co9ykaq',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
