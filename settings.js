@@ -17,22 +17,22 @@ module.exports = {
 ☫ Work Mode : @mode
 ☫ Work Type : @worktype
 
-Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
+𝐃𝚰𝐖𝚫𝚫 𝚯𝐅𝐅𝚰𝐂𝚰𝚫𝐋 𝚮𝚵𝐋𝚸 𝐃𝚵𝐒𝐊`,
   ALIVE_MEDIA: 'https://imgur.com/a/Co9ykaq',
   MONGODB_URL: '', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  BOT_NAME: '𝐃𝚰𝐖𝚫𝚫 𝚯𝐅𝐅𝚰𝐂𝚰𝚫𝐋 𝚮𝚵𝐋𝚸 𝐃𝚵𝐒𝐊',
+  OWNER_NAME: '𝐃𝚰𝐖𝚫𝚫',
+  OWNER_NUMBER: '94767190792',
+  SUDO: '94767190792',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
-  STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
-  STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
+  CAPTION: '𝐃𝚰𝐖𝚫𝚫 𝚯𝐅𝐅𝚰𝐂𝚰𝚫𝐋 𝚮𝚵𝐋𝚸 𝐃𝚵𝐒𝐊',
+  STICKER_AUTHOR: '𝐃𝚰𝐖𝚫𝚫 𝚯𝐅𝐅𝚰𝐂𝚰𝚫𝐋',
+  STICKER_PACK: '𝚮𝚵𝐋𝚸 𝐃𝚵𝐒𝐊',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '👽',
@@ -70,7 +70,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
       '❌ My owner has activated auto inbox blocking. So you will be auto blocked after 8 seconds'
   },
   BOT_RULES:
-    "*⚖️ 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
+    "*⚖️ 𝐃𝚰𝐖𝚫𝚫 𝚯𝐅𝐅𝚰𝐂𝚰𝚫𝐋 𝚮𝚵𝐋𝚸 𝐃𝚵𝐒𝐊 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
 }
 
 let file = require.resolve(__filename)
